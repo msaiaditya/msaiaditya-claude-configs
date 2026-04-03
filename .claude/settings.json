@@ -1,0 +1,14 @@
+{
+  "extraKnownMarketplaces": {
+    "anthropic-official": {
+      "source": {
+        "source": "git",
+        "url": "https://github.com/anthropics/claude-plugins-official.git",
+        "ref": "main"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "skill-creator@anthropic-official": true
+  }
+}
